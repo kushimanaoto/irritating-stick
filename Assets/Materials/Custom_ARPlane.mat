@@ -20,9 +20,9 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Ratio: 6
+    - _Ratio: 10
     - _Size: 0.3
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 0}
-    - _DotColor: {r: 0.7122642, g: 0.98470366, b: 1, a: 1}
+    - _DotColor: {r: 0.1628874, g: 1, b: 0.15686274, a: 1}
   m_BuildTextureStacks: []

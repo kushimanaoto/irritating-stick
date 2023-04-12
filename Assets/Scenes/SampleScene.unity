@@ -340,7 +340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cda7740d89f8f504888eb4b285f2c2ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  plane: {fileID: 8988209084081794875, guid: 39df0a4654bb927468338bf650b395fd, type: 3}
+  plane: {fileID: 0}
 --- !u!114 &223974232
 MonoBehaviour:
   m_ObjectHideFlags: 0

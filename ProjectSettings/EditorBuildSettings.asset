@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/irritating stick.unity
+    guid: 3dcbd4a6c43317b45a71c1b38d64f04e
+  - enabled: 1
+    path: Assets/playScene.unity
+    guid: d9ecb9ae7214ddc4a8e72049c998f2fe
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7980e5fa61132ca419be107995e12e30, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c3e91551cd3353c40964d63336c37bd2, type: 2}
